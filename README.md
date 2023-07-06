@@ -1,4 +1,4 @@
-![logo](https://github.com/DeveshTiwari2002/DeveshTiwari2002/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.png)
+![logo](https://github.com/DeveshTiwari2002/DeveshTiwari2002/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Devesh Tiwari</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 <img align="right" alt="Coading" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
