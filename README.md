@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devesh Tiwari</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/2MbU9-633q8AAAAC/jim-carrey-typing.gif">
+<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/OKMiJjqXkMcAAAAC/java-programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=data-enthusiast-shubhs&label=Profile%20views&color=0e75b6&style=flat" alt="data-enthusiast-shubhs" /> </p>
 
