@@ -26,8 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DeveshTiwari2002&show_icons=true&locale=en" alt="DeveshTiwari2002" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeveshTiwari2002&" alt="data-enthusiast-shubhs" />
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deveshtiwari2002&show_icons=true&locale=en" alt="deveshtiwari2002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deveshtiwari2002&" alt="deveshtiwari2002" /></p>
