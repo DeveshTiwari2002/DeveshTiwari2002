@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/data-enthusiast-shubhs?tab=repositories](https://github.com/data-enthusiast-shubhs?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/DeveshTiwari2002?tab=repositories](https://github.com/DeveshTiwari2002?tab=repositories)
 
 - 📫 How to reach me **[https://www.linkedin.com/in/devesh-tiwari-5623681b9/](https://www.linkedin.com/in/devesh-tiwari-5623681b9/)**
 
