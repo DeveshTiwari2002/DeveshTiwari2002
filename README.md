@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/data-enthusiast-shubhs?tab=repositories](https://github.com/data-enthusiast-shubhs?tab=repositories)
 
-- 📫 How to reach me **[https://www.linkedin.com/in/shubham-oli-12911so/](https://www.linkedin.com/in/devesh-tiwari-5623681b9/)](https://www.linkedin.com/in/devesh-tiwari-5623681b9/)**
+- 📫 How to reach me **[https://www.linkedin.com/in/devesh-tiwari-5623681b9/](https://www.linkedin.com/in/devesh-tiwari-5623681b9/)**
 
 
 <h3 align="left">Connect with me:</h3>
