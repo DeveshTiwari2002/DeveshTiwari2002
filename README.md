@@ -5,13 +5,37 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=data-enthusiast-shubhs&label=Profile%20views&color=0e75b6&style=flat" alt="data-enthusiast-shubhs" /> </p>
 
-- 🔭 I’m currently working on [Python, EDA, ML Projects, Power BI, SQL](https://github.com/data-enthusiast-shubhs?tab=repositories)
+## Hi 👋, I'm Devesh Tiwari
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning**
+🎓 B.Tech Computer Science Graduate  
+💼 Software Engineer Trainee @ MPOnline Limited  
+📊 Data Science & Analytics Enthusiast  
 
-- 👨‍💻 All of my projects are available at [https://github.com/DeveshTiwari2002?tab=repositories](https://github.com/DeveshTiwari2002?tab=repositories)
+I have hands-on experience across **Data Science, Machine Learning, and Software Engineering**, with exposure to real-world **G2C and B2C digital services**.
 
-- 📫 How to reach me **[https://www.linkedin.com/in/devesh-tiwari-5623681b9/](https://www.linkedin.com/in/devesh-tiwari-5623681b9/)**
+### 🔍 What I work on
+- Python-based data processing and analysis  
+- Exploratory Data Analysis (EDA) and Machine Learning models  
+- OCR-based document processing and data validation  
+- SQL databases and data visualization using Power BI  
+
+### 🛠️ Tech Stack
+- **Languages:** Python, SQL, Java (basic)  
+- **Data Science:** Pandas, NumPy, Machine Learning, Statistics  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Visualization:** Power BI, Tableau  
+- **Tools:** Jupyter Notebook, Git, Excel  
+
+### 📌 Featured Projects
+- Flight Price Prediction (Regression)
+- Mobile Price Range Classification
+- Forest Cover Type Prediction
+- Handwritten Digit Recognition (MNIST)
+- Face Recognition Attendance System
+
+📫 Connect with me:  
+- LinkedIn: https://www.linkedin.com/in/devesh-tiwari-5623681b9
+
 
 
 <h3 align="left">Connect with me:</h3>
